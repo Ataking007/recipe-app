@@ -1,0 +1,716 @@
+[
+  {
+    "name": "Khachapuri",
+    "category": "Georgian",
+    "calories": 750,
+    "vegan": false,
+    "time": 60,
+    "ingredients": [
+      "flour",
+      "yeast",
+      "milk",
+      "cheese",
+      "egg",
+      "butter"
+    ]
+  },
+  {
+    "name": "Khinkali",
+    "category": "Georgian",
+    "calories": 450,
+    "vegan": false,
+    "time": 75,
+    "ingredients": [
+      "flour",
+      "minced meat",
+      "onion",
+      "garlic",
+      "coriander"
+    ]
+  },
+  {
+    "name": "Pkhali",
+    "category": "Georgian",
+    "calories": 200,
+    "vegan": true,
+    "time": 30,
+    "ingredients": [
+      "spinach",
+      "walnut",
+      "garlic",
+      "onion",
+      "coriander"
+    ]
+  },
+  {
+    "name": "Lobio",
+    "category": "Georgian",
+    "calories": 300,
+    "vegan": true,
+    "time": 50,
+    "ingredients": [
+      "beans",
+      "onion",
+      "garlic",
+      "coriander"
+    ]
+  },
+  {
+    "name": "Chakhokhbili",
+    "category": "Georgian",
+    "calories": 380,
+    "vegan": false,
+    "time": 55,
+    "ingredients": [
+      "chicken",
+      "tomato",
+      "onion",
+      "garlic",
+      "coriander",
+      "butter"
+    ]
+  },
+  {
+    "name": "Menemen",
+    "category": "Turkish",
+    "calories": 250,
+    "vegan": false,
+    "time": 15,
+    "ingredients": [
+      "egg",
+      "tomato",
+      "pepper",
+      "onion"
+    ]
+  },
+  {
+    "name": "Red lentil soup",
+    "category": "Turkish",
+    "calories": 180,
+    "vegan": false,
+    "time": 35,
+    "ingredients": [
+      "lentils",
+      "onion",
+      "carrot",
+      "potato",
+      "butter",
+      "lemon"
+    ]
+  },
+  {
+    "name": "Karniyarik",
+    "category": "Turkish",
+    "calories": 420,
+    "vegan": false,
+    "time": 60,
+    "ingredients": [
+      "eggplant",
+      "minced meat",
+      "onion",
+      "tomato",
+      "pepper",
+      "garlic"
+    ]
+  },
+  {
+    "name": "Kuru fasulye",
+    "category": "Turkish",
+    "calories": 350,
+    "vegan": false,
+    "time": 60,
+    "ingredients": [
+      "beans",
+      "onion",
+      "tomato paste",
+      "butter"
+    ]
+  },
+  {
+    "name": "Bulgur pilaf",
+    "category": "Turkish",
+    "calories": 280,
+    "vegan": false,
+    "time": 25,
+    "ingredients": [
+      "bulgur",
+      "onion",
+      "tomato paste",
+      "pepper",
+      "butter"
+    ]
+  },
+  {
+    "name": "Cilbir",
+    "category": "Turkish",
+    "calories": 320,
+    "vegan": false,
+    "time": 15,
+    "ingredients": [
+      "egg",
+      "yogurt",
+      "garlic",
+      "butter"
+    ]
+  },
+  {
+    "name": "Imam bayildi",
+    "category": "Turkish",
+    "calories": 300,
+    "vegan": true,
+    "time": 60,
+    "ingredients": [
+      "eggplant",
+      "onion",
+      "tomato",
+      "garlic",
+      "parsley"
+    ]
+  },
+  {
+    "name": "Manti",
+    "category": "Turkish",
+    "calories": 550,
+    "vegan": false,
+    "time": 90,
+    "ingredients": [
+      "flour",
+      "egg",
+      "minced meat",
+      "onion",
+      "yogurt",
+      "garlic",
+      "butter"
+    ]
+  },
+  {
+    "name": "Kisir",
+    "category": "Turkish",
+    "calories": 250,
+    "vegan": true,
+    "time": 20,
+    "ingredients": [
+      "bulgur",
+      "tomato paste",
+      "parsley",
+      "mint",
+      "onion",
+      "lemon"
+    ]
+  },
+  {
+    "name": "Shakshuka",
+    "category": "Middle Eastern",
+    "calories": 280,
+    "vegan": false,
+    "time": 25,
+    "ingredients": [
+      "egg",
+      "tomato",
+      "pepper",
+      "onion",
+      "garlic"
+    ]
+  },
+  {
+    "name": "Hummus",
+    "category": "Middle Eastern",
+    "calories": 170,
+    "vegan": true,
+    "time": 15,
+    "ingredients": [
+      "chickpeas",
+      "garlic",
+      "lemon",
+      "tahini"
+    ]
+  },
+  {
+    "name": "Falafel",
+    "category": "Middle Eastern",
+    "calories": 330,
+    "vegan": true,
+    "time": 40,
+    "ingredients": [
+      "chickpeas",
+      "onion",
+      "garlic",
+      "parsley",
+      "coriander",
+      "flour"
+    ]
+  },
+  {
+    "name": "Tabbouleh",
+    "category": "Middle Eastern",
+    "calories": 180,
+    "vegan": true,
+    "time": 20,
+    "ingredients": [
+      "bulgur",
+      "parsley",
+      "mint",
+      "tomato",
+      "lemon",
+      "onion"
+    ]
+  },
+  {
+    "name": "Spaghetti bolognese",
+    "category": "Italian",
+    "calories": 600,
+    "vegan": false,
+    "time": 50,
+    "ingredients": [
+      "pasta",
+      "minced meat",
+      "onion",
+      "garlic",
+      "tomato",
+      "carrot"
+    ]
+  },
+  {
+    "name": "Pasta pomodoro",
+    "category": "Italian",
+    "calories": 420,
+    "vegan": true,
+    "time": 20,
+    "ingredients": [
+      "pasta",
+      "tomato",
+      "garlic",
+      "basil"
+    ]
+  },
+  {
+    "name": "Margherita pizza",
+    "category": "Italian",
+    "calories": 800,
+    "vegan": false,
+    "time": 90,
+    "ingredients": [
+      "flour",
+      "yeast",
+      "tomato",
+      "cheese",
+      "basil"
+    ]
+  },
+  {
+    "name": "Mushroom risotto",
+    "category": "Italian",
+    "calories": 450,
+    "vegan": false,
+    "time": 40,
+    "ingredients": [
+      "rice",
+      "mushroom",
+      "onion",
+      "butter",
+      "cheese"
+    ]
+  },
+  {
+    "name": "Spaghetti carbonara",
+    "category": "Italian",
+    "calories": 650,
+    "vegan": false,
+    "time": 20,
+    "ingredients": [
+      "pasta",
+      "egg",
+      "cheese",
+      "bacon"
+    ]
+  },
+  {
+    "name": "Caprese salad",
+    "category": "Italian",
+    "calories": 250,
+    "vegan": false,
+    "time": 10,
+    "ingredients": [
+      "tomato",
+      "cheese",
+      "basil"
+    ]
+  },
+  {
+    "name": "Minestrone",
+    "category": "Italian",
+    "calories": 220,
+    "vegan": true,
+    "time": 45,
+    "ingredients": [
+      "beans",
+      "carrot",
+      "potato",
+      "zucchini",
+      "tomato",
+      "onion",
+      "pasta"
+    ]
+  },
+  {
+    "name": "Greek salad",
+    "category": "Greek",
+    "calories": 230,
+    "vegan": false,
+    "time": 10,
+    "ingredients": [
+      "tomato",
+      "cucumber",
+      "onion",
+      "cheese",
+      "pepper"
+    ]
+  },
+  {
+    "name": "Tzatziki",
+    "category": "Greek",
+    "calories": 120,
+    "vegan": false,
+    "time": 10,
+    "ingredients": [
+      "yogurt",
+      "cucumber",
+      "garlic",
+      "mint"
+    ]
+  },
+  {
+    "name": "Moussaka",
+    "category": "Greek",
+    "calories": 600,
+    "vegan": false,
+    "time": 90,
+    "ingredients": [
+      "eggplant",
+      "minced meat",
+      "onion",
+      "tomato",
+      "potato",
+      "milk",
+      "flour",
+      "butter"
+    ]
+  },
+  {
+    "name": "Spanish omelette",
+    "category": "Spanish",
+    "calories": 350,
+    "vegan": false,
+    "time": 30,
+    "ingredients": [
+      "egg",
+      "potato",
+      "onion"
+    ]
+  },
+  {
+    "name": "Gazpacho",
+    "category": "Spanish",
+    "calories": 150,
+    "vegan": true,
+    "time": 15,
+    "ingredients": [
+      "tomato",
+      "cucumber",
+      "pepper",
+      "garlic",
+      "bread"
+    ]
+  },
+  {
+    "name": "Paella",
+    "category": "Spanish",
+    "calories": 550,
+    "vegan": false,
+    "time": 50,
+    "ingredients": [
+      "rice",
+      "chicken",
+      "shrimp",
+      "pepper",
+      "tomato",
+      "garlic",
+      "onion"
+    ]
+  },
+  {
+    "name": "French onion soup",
+    "category": "French",
+    "calories": 400,
+    "vegan": false,
+    "time": 60,
+    "ingredients": [
+      "onion",
+      "butter",
+      "bread",
+      "cheese"
+    ]
+  },
+  {
+    "name": "Crepes",
+    "category": "French",
+    "calories": 300,
+    "vegan": false,
+    "time": 25,
+    "ingredients": [
+      "flour",
+      "egg",
+      "milk",
+      "butter",
+      "sugar"
+    ]
+  },
+  {
+    "name": "Ratatouille",
+    "category": "French",
+    "calories": 200,
+    "vegan": true,
+    "time": 60,
+    "ingredients": [
+      "eggplant",
+      "zucchini",
+      "pepper",
+      "tomato",
+      "onion",
+      "garlic"
+    ]
+  },
+  {
+    "name": "Spinach quiche",
+    "category": "French",
+    "calories": 480,
+    "vegan": false,
+    "time": 60,
+    "ingredients": [
+      "flour",
+      "butter",
+      "egg",
+      "cream",
+      "cheese",
+      "spinach"
+    ]
+  },
+  {
+    "name": "Chicken fried rice",
+    "category": "Chinese",
+    "calories": 500,
+    "vegan": false,
+    "time": 20,
+    "ingredients": [
+      "rice",
+      "egg",
+      "chicken",
+      "carrot",
+      "onion",
+      "soy sauce",
+      "garlic"
+    ]
+  },
+  {
+    "name": "Vegetable stir-fry",
+    "category": "Chinese",
+    "calories": 180,
+    "vegan": true,
+    "time": 15,
+    "ingredients": [
+      "carrot",
+      "pepper",
+      "cabbage",
+      "mushroom",
+      "soy sauce",
+      "garlic",
+      "ginger"
+    ]
+  },
+  {
+    "name": "Chicken curry",
+    "category": "Indian",
+    "calories": 450,
+    "vegan": false,
+    "time": 45,
+    "ingredients": [
+      "chicken",
+      "onion",
+      "tomato",
+      "garlic",
+      "ginger",
+      "yogurt",
+      "curry powder"
+    ]
+  },
+  {
+    "name": "Dal",
+    "category": "Indian",
+    "calories": 300,
+    "vegan": true,
+    "time": 35,
+    "ingredients": [
+      "lentils",
+      "onion",
+      "garlic",
+      "ginger",
+      "tomato",
+      "curry powder"
+    ]
+  },
+  {
+    "name": "Chana masala",
+    "category": "Indian",
+    "calories": 320,
+    "vegan": true,
+    "time": 35,
+    "ingredients": [
+      "chickpeas",
+      "onion",
+      "tomato",
+      "garlic",
+      "ginger",
+      "curry powder"
+    ]
+  },
+  {
+    "name": "Thai coconut soup",
+    "category": "Thai",
+    "calories": 380,
+    "vegan": false,
+    "time": 25,
+    "ingredients": [
+      "chicken",
+      "coconut milk",
+      "mushroom",
+      "ginger",
+      "lemon"
+    ]
+  },
+  {
+    "name": "Teriyaki chicken",
+    "category": "Japanese",
+    "calories": 520,
+    "vegan": false,
+    "time": 30,
+    "ingredients": [
+      "chicken",
+      "soy sauce",
+      "honey",
+      "garlic",
+      "ginger",
+      "rice"
+    ]
+  },
+  {
+    "name": "Guacamole",
+    "category": "Mexican",
+    "calories": 230,
+    "vegan": true,
+    "time": 10,
+    "ingredients": [
+      "avocado",
+      "tomato",
+      "onion",
+      "lemon",
+      "coriander"
+    ]
+  },
+  {
+    "name": "Chili con carne",
+    "category": "Mexican",
+    "calories": 500,
+    "vegan": false,
+    "time": 60,
+    "ingredients": [
+      "minced meat",
+      "beans",
+      "tomato",
+      "onion",
+      "garlic",
+      "pepper",
+      "corn"
+    ]
+  },
+  {
+    "name": "Chicken quesadilla",
+    "category": "Mexican",
+    "calories": 480,
+    "vegan": false,
+    "time": 20,
+    "ingredients": [
+      "tortilla",
+      "chicken",
+      "cheese",
+      "pepper",
+      "onion"
+    ]
+  },
+  {
+    "name": "Pancakes",
+    "category": "American",
+    "calories": 350,
+    "vegan": false,
+    "time": 20,
+    "ingredients": [
+      "flour",
+      "egg",
+      "milk",
+      "butter",
+      "sugar"
+    ]
+  },
+  {
+    "name": "Mashed potatoes",
+    "category": "American",
+    "calories": 240,
+    "vegan": false,
+    "time": 30,
+    "ingredients": [
+      "potato",
+      "milk",
+      "butter"
+    ]
+  },
+  {
+    "name": "Banana bread",
+    "category": "American",
+    "calories": 330,
+    "vegan": false,
+    "time": 70,
+    "ingredients": [
+      "banana",
+      "flour",
+      "egg",
+      "sugar",
+      "butter"
+    ]
+  },
+  {
+    "name": "Oatmeal with banana",
+    "category": "British",
+    "calories": 300,
+    "vegan": false,
+    "time": 10,
+    "ingredients": [
+      "oats",
+      "milk",
+      "banana",
+      "honey"
+    ]
+  },
+  {
+    "name": "Apple crumble",
+    "category": "British",
+    "calories": 380,
+    "vegan": false,
+    "time": 50,
+    "ingredients": [
+      "apple",
+      "flour",
+      "butter",
+      "sugar",
+      "oats"
+    ]
+  }
+]
