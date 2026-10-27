@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pantry Match</string>
+    <string name="headline">What\'s in your kitchen today?</string>
+    <string name="intro">Tap the ingredients you have at home. Pantry Match checks 50 recipes from around the world and shows what you can cook right now.</string>
+    <string name="my_ingredients">My ingredients</string>
+    <string name="search_hint">Find an ingredient…</string>
+    <string name="clear_all">Clear all</string>
+    <string name="basics_note">Salt, black pepper, oil and water are counted as basics everyone has.</string>
+    <string name="empty_state">Choose a few ingredients above to see which of the 50 recipes you can make.</string>
+    <string name="no_match">None of the recipes use these ingredients. Try a basic like onion, egg or flour.</string>
+</resources>
