@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="leaf">#2E5E3A</color>
+    <color name="leaf_soft">#DCE8D6</color>
+    <color name="ink">#1C2B20</color>
+    <color name="paper">#F3F6EE</color>
+    <color name="mustard">#E8B931</color>
+    <color name="tomato">#C63D2B</color>
+    <color name="muted">#5C6B5F</color>
+    <color name="white">#FFFFFF</color>
+</resources>
